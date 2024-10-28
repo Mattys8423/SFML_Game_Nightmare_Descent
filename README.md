@@ -7,9 +7,6 @@ Bienvenue sur **Nightmare-Survival-Vertical-Slice** ! Ce projet est un plateform
 - [Aperçu](#aperçu)
 - [Prérequis](#prérequis)
 - [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
 
 ## Aperçu
 
