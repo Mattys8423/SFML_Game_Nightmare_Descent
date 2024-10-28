@@ -34,4 +34,4 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine :
 Pour cloner le dépôt, exécutez la commande suivante dans votre terminal :
 
 ```bash
-git clone https://github.com/votre-nom-utilisateur/nom-du-repo.git
+https://github.com/Mattys8423/SFML_Game_Nightmare_Descent.git
